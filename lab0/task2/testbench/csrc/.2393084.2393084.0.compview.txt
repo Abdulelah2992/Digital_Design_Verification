@@ -1,0 +1,9 @@
+{"vcs1":{"timestamp_begin":1739185572.189034790, "rt":0.26, "ut":0.09, "st":0.13}}
+{"vcselab":{"timestamp_begin":1739185572.531006787, "rt":0.17, "ut":0.11, "st":0.05}}
+{"link":{"timestamp_begin":1739185572.766306073, "rt":0.20, "ut":0.10, "st":0.11}}
+{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1739185571.919137758}
+{"VCS_COMP_START_TIME": 1739185571.919137758}
+{"VCS_COMP_END_TIME": 1739185573.035425193}
+{"VCS_USER_OPTIONS": "-full64 -sverilog -timescale=1ns/10ps alu_test.sv -sverilog ../design/alu.sv -o simv"}
+{"vcs1": {"peak_mem": 307760}}
+{"vcselab": {"peak_mem": 158216}}
